@@ -1,7 +1,8 @@
 CRUD PHP data buku dengan function move_uploaded_file()
 
 Function move_uploaded_file() digunakan untuk memindahkan file yang diunggah ke tujuan baru (misal folder img yang sudah disediakan)
-https://www.w3schools.com/php/func_filesystem_move_uploaded_file.asp
+lebih lanjut baca [disini.](https://www.w3schools.com/php/func_filesystem_move_uploaded_file.asp)
+
 
 
 ![Screenshot 2023-01-28 082920](https://user-images.githubusercontent.com/94840764/215234938-604ca695-0251-4214-a7e0-f31647ae3bb5.png)
