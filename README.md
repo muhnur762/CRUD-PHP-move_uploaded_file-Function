@@ -29,7 +29,9 @@ ada babaerapa yang harus kita harus persiapkan dulu nih sobat
     $folder = './assets/img/';
 ```
   a. $nama_cover = $_FILES['cover']['name']; ngambil nama file dengan atribut 'name' dari file yang bernama 'cover' (sesuai name yang diberikan pada input) dan disimpan pada variabel yang bernama $nama_cover
+  
   b. $source = $_FILES['cover']['tmp_name']; ngambil lokasi sementara file (temporary) dari file yang bernama 'cover' dan di simpan pada variabel yang bernama $source
+  
   c. $folder = './assets/img/'; lokasi tujuan temen temen mau menyimpan file yang sudah diinput pada contoh ini adalah assets lalu img
   
  ### 3. Eksekusi bintang utama 
